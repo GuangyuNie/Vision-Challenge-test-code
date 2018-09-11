@@ -1,0 +1,3 @@
+tensorflow-gpu==1.2.1
+foolbox==1.3.2
+git+https://github.com/bveliqi/adversarial-vision-challenge

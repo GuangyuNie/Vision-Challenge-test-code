@@ -1,0 +1,7 @@
+{
+    "challenge_id" : "nips-2018-avc-robust-model-track",
+    "grader_id": "nips-2018-avc-robust-model-track",
+    "authors" : ["jonasrauber"],
+    "description" : "resnet-18 frozen noise baseline model",
+    "gpu": true
+}
